@@ -12,6 +12,8 @@ I obtained my PhD from the University of Madison-Wisconsin in mathematical physi
 
 - [TransitionPathTheory.jl](https://github.com/70Gage70/TransitionPathTheory.jl) A Julia package which calculates basic and advanced statistics of transition path theory (TPT). These TPT statistics reveal new information about how a Markov process travels from a source to a target.
 
+- [SargassumFromAFAI.jl](https://github.com/70Gage70/SargassumFromAFAI.jl) A Julia package for computing Sargassum distributions from AFAI (Alternate Floating Algae Index) data. This provides easy access to datasets appropriate for testing models against qualitatively accurate distributions.
+
 ### Other Tools
 
 - [WorldPolygonPlots](https://github.com/70Gage70/WorldPolygonPlots) A Mathematica/Wolfram Language package for creating high quality plots of densities supported on geopolygons.
