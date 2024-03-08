@@ -14,6 +14,8 @@ I obtained my PhD from the University of Madison-Wisconsin in mathematical physi
 
 - [SargassumFromAFAI.jl](https://github.com/70Gage70/SargassumFromAFAI.jl) (Coming soon!) A Julia package for computing Sargassum distributions from AFAI (Alternate Floating Algae Index) data. This provides easy access to datasets appropriate for testing models against qualitatively accurate distributions.
 
+- [SargassumBOMB.jl](https://github.com/70Gage70/SargassumBOMB.jl) (Coming soon!) A Julia package for integrating Sargassum raft trajectories with both intertial and biological effects.
+
 ### Other Tools
 
 - [WorldPolygonPlots](https://github.com/70Gage70/WorldPolygonPlots) A Mathematica/Wolfram Language package for creating high quality plots of densities supported on geopolygons.
