@@ -14,4 +14,4 @@ I obtained my PhD from the University of Madison-Wisconsin in mathematical physi
 
 - [TransitionPathTheory.jl](https://github.com/70Gage70/TransitionPathTheory.jl) A package which calculates basic and advanced statistics of transition path theory (TPT). These TPT statistics reveal new information about how a Markov process travels from a source to a target.
 
-- [Kneedle.jl](https://github.com/70Gage70/UlamMethod.jl) Find the "knee" (corner) in a dataset `(x, y)`, e.g. to find the optimal thresholding parameter in a sparse regression problem.
+- [Kneedle.jl](https://github.com/70Gage70/Kneedle.jl) Find the "knee" (corner) in a dataset `(x, y)`, e.g. to find the optimal thresholding parameter in a sparse regression problem.
