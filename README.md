@@ -8,7 +8,7 @@ I obtained my PhD from the University of Madison-Wisconsin in mathematical physi
 
 ### Highlights
 
-- [Sargassum.jl](https://github.com/70Gage70/Sargassum.jl) A fully featured *Sargassum* toolkit written in Julia, including physics and biology [simulation](https://github.com/70Gage70/SargassumBOMB.jl), satellite data [analysis](https://github.com/70Gage70/SargassumFromAFAI.jl) and a zero-code [interface](https://github.com/70Gage70/SargassumInterface.jl).
+- [Sargassum.jl](https://github.com/70Gage70/Sargassum.jl) A fully featured *Sargassum* toolkit written in Julia, including physics and biology simulation, satellite data analysis and a zero-code interface.
 
 - [UlamMethod.jl](https://github.com/70Gage70/UlamMethod.jl) A package for discretizing trajectory data into a transition probability matrix using Ulam's method. It has been applied to undrogued drifter motion in the North Atlantic to study the motion of Sargassum.
 
